@@ -14,6 +14,7 @@
   <a href="https://www.youtube.com/channel/UCApyTNa1XWE0bj2u9LsAKqQ">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=rkrocky007&style=flat-square&color=blue" alt="account counter"/>
 </div>
 
