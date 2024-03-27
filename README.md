@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/_sakh.rock?igsh=MWR5MGNjM2Y1eHpjag%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="www.youtube.com/@RK-os4vl">
+  <a href="https://www.youtube.com/@RK-os4vl">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 
