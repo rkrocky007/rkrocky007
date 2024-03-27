@@ -9,7 +9,7 @@
 
 Hello 👋 ! My name is Rock, an undergraduate student in the Faculty of Computer Engineering from Rajamangala University of Technology Thanyaburi. I am currently studying and exploring new technologies.
 
-🌍 I'm based in Bangkok, Thailand
+🌍 Bangkok, Thailand
 
 ## 👨‍🎓 Studys :
 
