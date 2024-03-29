@@ -5,7 +5,8 @@
 </div>
 
 # My GitHub Profile :
-    name = "Sarut khiaokaew" print(name)
+    name = "Sarut khiaokaew" 
+    print(name)
                     
 ## About Me :
 
