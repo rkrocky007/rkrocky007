@@ -61,13 +61,22 @@ I am still a newbie in technology and need to go out into the world for further 
   </a> 
 </p>
 
-## 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=rkrocky007&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rkrocky007&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkrocky007&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rkrocky007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rkrocky007&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkrocky007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rkrocky007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rkrocky007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rkrocky007&icon=7&color=1)](https://visitcount.itsvg.in) ♥
+[![](https://visitcount.itsvg.in/api?id=rkrocky007&icon=7&color=1)](https://visitcount.itsvg.in)  ♥
 
 ## 💌 Contact
 
