@@ -47,18 +47,6 @@ I am still a newbie in technology and need to go out into the world for further 
 
 ## 🌐 Socials :
 <p> 
-  <a href="https://www.facebook.com/profile.php?id=100014590954552">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a> 
-</p>
-
-<p> 
-  <a href="https://www.instagram.com/_sakh.rock?igsh=MWR5MGNjM2Y1eHpjag%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a> 
-</p>
-
-<p> 
   <a href="https://www.youtube.com/@RK-os4vl">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> 
